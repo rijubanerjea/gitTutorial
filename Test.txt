@@ -1,8 +1,6 @@
 Learning Github
-<<<<<<< HEAD
+
 new line by user 2
-=======
 
 new line by user 1
 
->>>>>>> 095263f91f85cd4594f467424095d114cbaa940a
