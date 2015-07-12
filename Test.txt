@@ -1,3 +1,1 @@
-Hello, now we learn Github
-
-hello, adding a new line
+Learning Github
