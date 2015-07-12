@@ -1,4 +1,6 @@
 Learning Github
 
+new line by user 2
+
 new line by user 1
 new line by user 1 - now
