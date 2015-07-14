@@ -1,1 +1,1 @@
-User1 We are learning Git
+User1 We are learning Git User2 is learning too
