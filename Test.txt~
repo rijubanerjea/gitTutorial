@@ -1,1 +1,7 @@
 User1 We are learning Git User2 is learning too
+<<<<<<< HEAD
+User 2 added stuff2
+
+=======
+user 1 stuff 1
+>>>>>>> f33c39f75388cf5d5480da43951141cf9615f5cb
